@@ -1,6 +1,3 @@
-3-FACTORIAL.C CODE
-
-
 #include "main.h"
 
 /**
